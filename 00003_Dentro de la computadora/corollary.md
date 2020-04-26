@@ -1,0 +1,1 @@
+Exacto!Tu teléfono es una mini computadorita!! :grin:

@@ -1,0 +1,1 @@
+**Como vimos el objetivo de este taller es darle una vuelta de tuerca a la Biología!** Si bien existen muchas herramientas disponibles para analizar datos biológicos, poder construir tus propias herramientas te dará la posibilidad de comprender en profundidad los conceptos y aplicar este conocimiento a nuevas problemáticas.

@@ -1,0 +1,26 @@
+---
+name: Primeros pasos
+locale: es
+type: learning
+beta: false
+teacher_info: "La bioinformática puede ser pensada como una herramienta en el aprendizaje
+  de la biología: su objeto de trabajo son entidades biológicas (ADN, proteínas, organismos
+  completos, sus poblaciones, etc.) que se analizan con métodos que permiten “visualizar”
+  distintos procesos de la naturaleza. \n\nAsí, la bioinformática aporta una manera
+  clara y precisa de percibir los procesos biológicos, y permite poner en imágenes
+  conceptos abstractos utilizando herramientas que integran múltiples conocimientos
+  (lógico-matemático, biológico, físico, estadístico).\n\n**Este taller es \"un punto\"
+  en común que permite a los/las estudiantes abordar la Biología desde un punto de
+  vista integral y brinda una posibilidad para el trabajo interdiciplinario docente.**"
+language: python
+id_format: "%05d"
+order:
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+private: false

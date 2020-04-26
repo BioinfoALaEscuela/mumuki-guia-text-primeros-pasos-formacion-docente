@@ -1,0 +1,5 @@
+Copyright (Ana) SBG - UNQ, (Pablo) DS - UC [Review] and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/bioinfoalaescuela/mumuki-guia-text-primeros-pasos-formacion-docente and the AUTHORS.txt file.
