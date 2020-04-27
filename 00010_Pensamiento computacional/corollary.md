@@ -1,3 +1,3 @@
-Reconocer qué datos nos aportan los análisis de los sistemas biológicos y cómo procesarlos, nos permite no sólo desarrollar los aspectos empírico y metodológico de la ciencia, resolviendo problemas sencillos desde la construcción de respuestas que impliquen la observación. :eyes:
+Reconocer qué datos nos aportan los análisis de los sistemas biológicos y cómo procesarlos, nos permite no sólo desarrollar los aspectos empírico y metodológico de la ciencia, resolviendo problemas sencillos desde la construcción de respuestas que impliquen la observación :eyes:
 
 Esto nos permite también nos permite ahondar en el aspecto abstracto de la ciencia y en el entendimiento de los modelos que subyacen a los conceptos que estamos abordando. :bulb:
