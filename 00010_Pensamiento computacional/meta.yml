@@ -2,11 +2,23 @@
 locale: es
 tags: []
 layout: input_right
-editor: text
+editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
-choices: []
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Hidratos de Carbono
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Proteínas
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Ácidos Nucleicos
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Lípidos
+  checked: false
 name: Pensamiento computacional
